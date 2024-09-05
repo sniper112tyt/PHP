@@ -1,0 +1,20 @@
+.main{
+    margin: auto;
+    width: 80%;
+    
+}
+.right{
+    width: 59%;
+    float: right;
+    border: solid black;
+    height: 100px;
+}
+.left{
+    width: 39%;
+    float: left;
+    border: solid black;   
+    height: 100px;
+}
+#pn{
+    width: 100%;
+}
